@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B5293CC1-CBCA-92F8-81C3-9A108CB74F22}") = "TMI_Invizicars", "Assembly-CSharp-firstpass.csproj", "{240CA61A-9004-A0A9-0043-B4CFBA10C275}"
+EndProject
+Project("{B5293CC1-CBCA-92F8-81C3-9A108CB74F22}") = "TMI_Invizicars", "Assembly-CSharp.csproj", "{EC687BBB-EA0C-2E53-2DB1-1EDB5CDBB644}"
+EndProject
+Project("{B5293CC1-CBCA-92F8-81C3-9A108CB74F22}") = "TMI_Invizicars", "Assembly-CSharp-Editor.csproj", "{85B447DD-860B-77B8-55BD-80C17B18B260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240CA61A-9004-A0A9-0043-B4CFBA10C275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240CA61A-9004-A0A9-0043-B4CFBA10C275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240CA61A-9004-A0A9-0043-B4CFBA10C275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240CA61A-9004-A0A9-0043-B4CFBA10C275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC687BBB-EA0C-2E53-2DB1-1EDB5CDBB644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC687BBB-EA0C-2E53-2DB1-1EDB5CDBB644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC687BBB-EA0C-2E53-2DB1-1EDB5CDBB644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC687BBB-EA0C-2E53-2DB1-1EDB5CDBB644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B447DD-860B-77B8-55BD-80C17B18B260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B447DD-860B-77B8-55BD-80C17B18B260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B447DD-860B-77B8-55BD-80C17B18B260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B447DD-860B-77B8-55BD-80C17B18B260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
